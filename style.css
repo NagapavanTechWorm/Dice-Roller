@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: #2B2E4A;
+    color: #E84545 ;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Nerko One', cursive;
+}
+h1{
+    font-size: 90px;
+    /* font-family: 'Nerko One', cursive; */
+    /* font-family: 'Dancing Script', cursive; */
+}
+h2{
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+
+}
+img{
+    width: 20rem;
+    margin: 2rem;
+}
